@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "author": "Anand Popat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
