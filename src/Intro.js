@@ -6,9 +6,13 @@ class Intro extends Component {
     return (
       <div className="Intro">
         <div>Hello, I'm
-          <span> Anand Popat.</span>
+          &nbsp;
+          <span class="nes-text is-error">Anand Popat</span>
+        .
         </div>
         <div>I'm a full-stack web developer.</div>
+        <br />
+        <button type="button" class="nes-btn is-warning">View my work</button>
       </div>
     );
   }
